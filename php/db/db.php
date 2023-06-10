@@ -2,8 +2,8 @@
 
 $servername = "localhost";
 $database = "store";
-$username = "root";
-$password = "";
+$username = "apt";
+$password = "root0";
 $charset = "utf8mb4";
 
 try {

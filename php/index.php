@@ -11,8 +11,8 @@
     <hr>
 
     <h5> REGISTER PAYMENT </h5>
-    <form action="/methods/post.php" method="post">
-        <input type="text" name="Label" id=""><br />
+    <form action="methods/post.php" method="get">
+        <input type="text" name="label" id=""><br />
         <input type="number" name="amount" id=""><br />
         <button type="submit"> Valid </button>
     </form>
